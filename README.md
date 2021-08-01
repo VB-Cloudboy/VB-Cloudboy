@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imCloudboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVB-Cloudboy&screen_name=imCloudboy) [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5/vb-techevangelist?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vb-techevangelist/)
 
+<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+
 ## I'm a Tech-Evangelist!!
 
 - 🔭 I am a technical content contributor on [Medium](https://vbcloudboy.medium.com/)
