@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vijay - aka [VBCloudboy](http://cloudboy.in/) 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/imCloudboy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVB-Cloudboy&screen_name=imCloudboy) [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5/vb-techevangelist?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vb-techevangelist/)
+
 
 <!--
 **VB-Cloudboy/VB-Cloudboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
