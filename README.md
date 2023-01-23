@@ -19,7 +19,7 @@
 <a class="twitter-follow-button"
   href="https://twitter.com/imCloudboy"
   data-size="large"><img align="left" alt="vbcloudboy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- @imCloudboy</a>
+ @VB_Cloudboy</a>
 
 <a class="linkedin-follow-button"
   href="https://www.linkedin.com/in/vb-techevangelist/"
