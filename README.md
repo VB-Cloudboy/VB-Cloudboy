@@ -9,9 +9,9 @@
 - 🔭 I am a technical content contributor on [Medium](https://vbcloudboy.medium.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source AI projects
 - 💬 Ask me about Azure Cloud and i'll be happy to assist you.  
-- ⚡ Fun fact: I love to read and learn more on Hindu/Greek mythology. Beside reading I like to cook.
+- ⚡ Fun fact: I love reading books(mostly mythological). Beside reading I like to cook and spend time with friends.
 
 
 ### Connect with me on social channels:
